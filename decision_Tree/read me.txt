@@ -1,0 +1,12 @@
+Name :Md. Mahfuzur Rahman Abir	
+ID : 1420271042
+
+Programming Language : C++ 
+
+Additional Instruction:
+
+Command line argument:
+	exefile [training_file] [test_file] [optimized/randomized/forest3/forest15]
+
+
+	cmd 01: dtree satellite_training.txt satellite_test.txt optimized
